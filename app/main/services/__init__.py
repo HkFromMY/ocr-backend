@@ -1,0 +1,1 @@
+from .convert_service import convert_image_to_text
